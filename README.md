@@ -12,3 +12,7 @@ To practise Git version control and remote repository management.
 
 ## Technologies
 Git and GitHub
+
+## Future Improvements
+- Add department faculty details
+- Add course information
