@@ -9,3 +9,6 @@ To practise Git version control and remote repository management.
 - Department information
 - Git commit history
 - Remote repository synchronization
+
+## Technologies
+Git and GitHub
